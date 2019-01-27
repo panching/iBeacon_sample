@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BLE_Sample</string>
+    <string name="detect_beacons_button">Click Screen \nstart scan iBeacons</string>
+    <string name="enter_region">enter_region</string>
+    <string name="exit_region">exit_region</string>
+    <string name="determine_state_for_region">determine state for region</string>
+    <string name="permission_granted">coarse location permission granted"</string>
+
+    <string name="beacon">BEACON</string>
+    <string name="distance">DISTANCE</string>
+    <!--notification-->
+    <string name="notification_title">有一個Beacon很近喔！</string>
+    <string name="notification_message">特價Switch八萬一！～</string>
+    <!-- error message-->
+    <string name="notice">提醒</string>
+    <string name="functionality_limited">未授予位置訪問權限，無法在後台發現訊號</string>
+    <string name="location_access">請授予位置訪問權限，以便檢測到信標訊號</string>
+    <string name="bluetooth_disable">連結量測設備前，請先開啟藍芽與手機位置資訊</string>
+    <string name="bluetooth_not_found">此設備為提供藍芽功能</string>
+
+</resources>
