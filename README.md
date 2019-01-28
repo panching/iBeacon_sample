@@ -1,5 +1,9 @@
 # iBeacon_sample
 
+
+### 說明
+一個簡單的藍牙連接搜尋iBeacon範例.
+
 ### 環境
 <ul>
  <li>Android 3.3 version
